@@ -1,1 +1,1 @@
-# DeepTech_Ready-Traiing
+# DeepTech_Ready-Training
